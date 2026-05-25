@@ -250,33 +250,10 @@ python main.py --webui-only
 | [AlphaSift](https://github.com/ZhuLinsen/alphasift) | 多因子選股與全市場掃描，用於從股票池中整理候選標的 |
 | [AlphaEvo](https://github.com/ZhuLinsen/alphaevo) | 策略回測與自我進化，用於驗證策略規則，並透過迭代探索策略參數與組合 |
 
-## 📬 聯繫與合作
-
-<table>
-  <tr>
-    <td width="92" valign="top"><strong>合作郵箱</strong></td>
-    <td valign="top">
-      <a href="mailto:zhuls345@gmail.com">zhuls345@gmail.com</a><br>
-      項目諮詢、部署支援與功能擴展
-    </td>
-    <td align="center" rowspan="3" valign="middle" width="148">
-      <a href="http://xhslink.com/m/tU520DWCKT" target="_blank"><img src="./docs/assets/xiaohongshu_tick.jpg" width="112" alt="小紅書二維碼"></a><br>
-      <sub>掃碼關注小紅書</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="92" valign="top"><strong>小紅書</strong></td>
-    <td valign="top"><a href="http://xhslink.com/m/tU520DWCKT">歡迎關注小紅書</a></td>
-  </tr>
-  <tr>
-    <td width="92" valign="top"><strong>問題回報</strong></td>
-    <td valign="top"><a href="https://github.com/MDs227/daily_stock_analysis/issues">提交 Issue</a></td>
-  </tr>
-</table>
 
 ## 📄 License
 
-[MIT License](LICENSE) © 2026 ZhuLinsen
+[MIT License](LICENSE) © 2026 
 
 歡迎在二次開發或引用時註明本倉庫來源，感謝支持項目持續維護。
 
